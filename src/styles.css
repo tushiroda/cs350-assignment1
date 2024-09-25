@@ -1,0 +1,67 @@
+* {
+  margin: 2%;
+}
+
+.page {
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: space-around;
+  width: 60%;
+  margin: auto;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  background-color: whitesmoke;
+  margin: 0%;
+  padding: 3%;
+}
+.float-left {
+  float: left;
+  width: 20%;
+}
+.float-right {
+  float: right;
+  width: 25%;
+  text-align: right;
+}
+.bot {
+  display: flex;
+  flex-wrap: wrap;
+}
+.header {
+  font-style: italic;
+  font-weight: bold;
+  width: 20%;
+  float: left;
+}
+.content {
+  width: 65%;
+  float: right;
+}
+
+.line {
+  background-color: black;
+  height: 3px;
+  width: 100%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.content * {
+  margin: 0%;
+}
+
+.sechead {
+  margin-bottom: 2%;
+  font-weight: bold;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 65%;
+  column-gap: 15%;
+}
+.list item {
+  margin: 0%;
+}

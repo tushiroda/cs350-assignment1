@@ -1,12 +1,12 @@
 {
   "files": {
     "main.js": "/cs350-assignment1/static/js/main.31d6cfe0.js",
-    "main.css": "/cs350-assignment1/static/css/main.3f338d68.css",
+    "main.css": "/cs350-assignment1/static/css/main.905897fa.css",
     "index.html": "/cs350-assignment1/index.html",
-    "main.3f338d68.css.map": "/cs350-assignment1/static/css/main.3f338d68.css.map"
+    "main.905897fa.css.map": "/cs350-assignment1/static/css/main.905897fa.css.map"
   },
   "entrypoints": [
     "static/js/main.31d6cfe0.js",
-    "static/css/main.3f338d68.css"
+    "static/css/main.905897fa.css"
   ]
 }
